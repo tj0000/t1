@@ -6,4 +6,4 @@
 Requirements:
 - Python3.9
 - Cdk Bootstraped aws account
-- Credentials to use cdk deploy
+- Credentials to use cdk deploy (Policy: https://tjaws.s3.amazonaws.com/t1_cdk_policy.json)
