@@ -1,4 +1,4 @@
-# t1 - Deploy a rest api using lambda, api gateway, aws cdk, github actions and python.
+# t1 - Deploy a serverless rest api using lambda, api gateway, aws cdk, github actions and python.
 
 
 ![schema](https://tjaws.s3.amazonaws.com/t1.png)
