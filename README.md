@@ -1,4 +1,4 @@
-# t1 - Setup aws account to use aws cdk
+# t1 - Setup an aws account to use aws cdk
 
 ## Steps:
 
